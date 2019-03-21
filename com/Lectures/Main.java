@@ -9,10 +9,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int a;
-        int b;
-        String c;
-        char d;
+        Comparable<CircleBase> one = new Cone();
+        Comparable<CircleBase> two = new Cylinder();
+
+        System.out.println(one.toString() + ", " + two.toString());
         //String for output later
         String result = "";
 
