@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.util.Arrays;
 import java.util.Random;
 
-//hello hello
+
 public class Main {
 
     public static void main(String[] args) {
